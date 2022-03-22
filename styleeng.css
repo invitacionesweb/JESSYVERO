@@ -4,6 +4,8 @@
     --color-terciario:#36A78E;
     --font-principal: 'Goudy Bookletter 1911', serif;
     --font-secundaria:'Goudy Bookletter 1911', serif;
+    --font-terciaria:'Domine', serif;
+
 }
 body {
     background-color: var(--color-principal);
@@ -48,7 +50,7 @@ header {
 .texto h3 {
     padding: 10px 10px 30px 10px;
     margin: 0;
-    font-family: var(--font-principal);
+    font-family: var(--font-terciaria);
 
 
 }
@@ -96,7 +98,7 @@ header {
 
 h1 {
     color: #332C19;
-    font-family: var(--font-principal);
+    font-family: var(--font-terciaria);
     font-size: 60px !important;
     padding: 0;
     margin: 0;
@@ -374,6 +376,8 @@ button#copiador {
 
 
 .end h2{
+    font-family: var(--font-terciaria);
+
     margin-top: 30px;
     font-size: 50px;
     color: #353535;

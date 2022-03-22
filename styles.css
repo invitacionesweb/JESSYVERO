@@ -4,6 +4,8 @@
     --color-terciario:#3FB99B;
     --font-principal: 'Goudy Bookletter 1911', serif;
     --font-secundaria:'Goudy Bookletter 1911', serif;
+    --font-terciaria:'Domine', serif;
+
 }
 body {
     width: 100%;
@@ -50,7 +52,7 @@ body {
     }
 }
 .info h1 {
-    font-family: var(--font-principal);
+    font-family: var(--font-terciaria);
     font-size: 60px;
     margin-top: 40px;
 
