@@ -45,7 +45,7 @@ header {
 }
 .texto p {
     font-size: 20px;
-    padding: 30px 50px 0 50px;
+    padding: 30px 100px 0 100px;
 }
 .texto h3 {
     padding: 10px 10px 30px 10px;
@@ -218,7 +218,8 @@ header p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content:end;
+    padding-bottom: 50px;
 }
 .rsvp-text {
     max-width: 240px;
@@ -377,7 +378,6 @@ button#copiador {
 
 .end h2{
     font-family: var(--font-terciaria);
-
     margin-top: 30px;
     font-size: 50px;
     color: #353535;
