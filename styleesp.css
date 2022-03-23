@@ -363,9 +363,9 @@ button#copiador {
     margin: auto;
     max-width: 280px;
     text-align: center;
-    padding: 70px ;
+    padding: 120px ;
     color: var(--color-terciario);
-    background-image: url(./img/background1.png);
+    background-image: url(./img/Group29.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -376,12 +376,13 @@ button#copiador {
 .end h2{
     font-family: var(--font-terciaria);
     margin-top: 30px;
-    font-size: 50px;
+    font-size: 70px;
     color: #353535;
 }
 .end p{
     padding: 0;
     color: #353535;
+    
 }
 
 
@@ -419,8 +420,19 @@ footer img {
     color: var(--color-secundario);
 }
 
+.nombres {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid red;
+}
+.nombres h2, p { 
+    padding: 0;
+    margin: 0;
+    font-family: var(--font-terciaria) !important;
 
-
+}
 
 
 
