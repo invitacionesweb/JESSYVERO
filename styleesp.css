@@ -40,6 +40,8 @@ header {
     width: 100%;
     height: auto;
     text-align: center;
+    background-color: var(--color-principal);
+
 }
 .texto p {
     font-size: 20px;
@@ -419,19 +421,7 @@ footer img {
     color: var(--color-secundario);
 }
 
-.nombres {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    border: 2px solid red;
-}
-.nombres h2, p { 
-    padding: 0;
-    margin: 0;
-    font-family: var(--font-terciaria) !important;
 
-}
 
 
 

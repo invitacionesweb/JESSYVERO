@@ -41,6 +41,7 @@ header {
     width: 100%;
     height: auto;
     text-align: center;
+    background-color: var(--color-principal);
 }
 .texto p {
     font-size: 20px;
@@ -153,7 +154,7 @@ header p {
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: var(--color-principal);
+    background-color: rgba(211, 226, 205, 0.808);
 }
 .info p {
     font-size: 20px;
