@@ -239,10 +239,10 @@ header p {
     padding: 0px 8px;
     font-size: 20px;
     margin: 0;
-   
-
 }
-
+.rsvp-text .boton {
+    font-size: 15px;
+}
 .dresscode {
     background-color: var(--color-terciario);
     color: var(--color-principal);
